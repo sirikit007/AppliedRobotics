@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapplied_robotics"]=self["webpackChunkapplied_robotics"]||[]).push([[594],{603:function(n,t,u){u.r(t),u.d(t,{default:function(){return p}});var a=u(6768);const e={class:"about"},r=(0,a.Lk)("h1",null,"This is an about page",-1),s=[r];function c(n,t){return(0,a.uX)(),(0,a.CE)("div",e,s)}var i=u(1241);const o={},l=(0,i.A)(o,[["render",c]]);var p=l}}]);
+//# sourceMappingURL=about.daaa6316.js.map
